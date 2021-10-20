@@ -1,0 +1,22 @@
+Bitcoin utiliza este protocolo blockchain asim como o etherium, e trabalha com transações de pessoas para pessoas de forma descentralizada. logo não existe um agente central para controla-los, e esta rede é toda criptografada que resiste a censura financeira;
+O Ethereum veio como uma proposta seguindo o bitcoin mas trabalhando com smart contracts, que conseguem tambem trabalhar de forma descentralizada;
+
+Smart-Contracts: é uma execução própria com intruções executado sem uma terceira parte e vieram de um blockchain,  é como um contrato escrito a mão mas no PC, e totalmente em codigo seja os termos, e totalmente executado por blockchain 
+
+Oracle Problem: São sistemas determinados, e isso significa que existe um uma parede que protege tudo que ocorre no smart contract, logo fica numa caixa, mas do mesmo ele precisa de formas de entrar com em contato com o externo para conseguir dados reais;
+
+Oracles: são Blockchain Oracles é o que pega os dados externos e armazena dentro do blockchain ou executa alguma computação externa, porém para que tal continue descentralizado ele precisa de informações externas que quando inseridas dentro ele as decentraliza, e combinando ambos possuimos os Hybrid Smart Contract;
+
+Protocol ChainLink: é basicamente um oracle modular descentralizado para network, que permite trazer informações para os smart contract e faz a computação externa, além de personalizações indeterminadas para smart contract;
+
+Dapp = Smart Contract = Decentralized App
+
+1. Decentralized
+2. Transparent
+3. Speed
+4. Immutable
+5. Remove COunterparty Risk
+6. Allow for trust minimized agreements
+7. Hybrid Smart Contracts combine on and off-chain
+ 
+
